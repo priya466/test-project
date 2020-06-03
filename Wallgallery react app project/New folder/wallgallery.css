@@ -1,0 +1,9 @@
+.wallgallerystyle img
+{ width:300px ;
+height:300px;
+float:left;
+margin:1em;
+border:0.2em solid #332D2A;
+margin-top:1em;
+
+}
